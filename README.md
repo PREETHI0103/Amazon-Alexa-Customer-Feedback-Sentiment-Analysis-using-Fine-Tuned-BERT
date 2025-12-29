@@ -1,9 +1,9 @@
 # Amazon-Alexa-Customer-Feedback-Sentiment-Analysis-using-Fine-Tuned-BERT
+
 A production-grade AI platform built on customer feedback, leveraging fine-tuned BERT for sentiment intelligence. The system covers data preprocessing, EDA, advanced NLP pipelines, model training and optimization, Hugging Face model hosting, and deployment as a high-performance Streamlit web application for real-time decision support.
 
-# Amazon-Alexa-Customer-Feedback-Sentiment-Analysis-using-Fine-Tuned-BERT
 
-**AI Customer Sentiment Intelligence Platform 📊** — Real-time analysis of Amazon Alexa reviews using **fine-tuned BERT & DistilBERT models** 🚀  
+**AI Customer Sentiment Intelligence Platform 📊** 
 
 [🔗 Try the live app on Hugging Face Spaces](https://huggingface.co/spaces/PREETHI0103/Customer-Sentiment-Intelligence-Platform)
 
