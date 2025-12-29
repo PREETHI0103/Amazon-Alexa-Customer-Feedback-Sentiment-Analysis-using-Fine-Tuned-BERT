@@ -1,0 +1,14 @@
+numpy
+pandas
+matplotlib
+seaborn
+nltk
+emoji
+pyspellchecker
+wordcloud
+scikit-learn
+torch
+transformers
+datasets
+streamlit
+huggingface_hub
