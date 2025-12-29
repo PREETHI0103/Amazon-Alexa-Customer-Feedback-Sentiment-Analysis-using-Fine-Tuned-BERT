@@ -97,6 +97,20 @@ Records: **3,150** | Target column: `feedback` | Classes: `0 = Negative`, `1 = P
 - Fine-tuned **BERT & DistilBERT models** for high accuracy  
 - **Interactive Streamlit app** for real-time predictions  
 - Hosted and shared via **Hugging Face Hub**  
-- **Production-ready** workflow from preprocessing → model training → deployment 
+- **Production-ready** workflow from preprocessing → model training → deployment
+
+---
+
+## 👩‍💻 Author
+
+Built with ❤️ by **[PREETHI S]**
+
+---
+
+## 🏷️ Tags
+
+`#streamlit` `#huggingface` `#nlp` `#sentiment-analysis` `#customer-feedback` `#amazon-alexa` `#bert` `#distilbert` `#ai` `#machine-learning`
+
+---
 
 
