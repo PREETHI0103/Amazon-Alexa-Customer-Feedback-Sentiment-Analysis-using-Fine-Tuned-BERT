@@ -69,9 +69,34 @@ Records: **3,150** | Target column: `feedback` | Classes: `0 = Negative`, `1 = P
 - Accuracy: 0.9587  
 - Balanced Accuracy: 0.8166  
 - F1-Score: 0.9777
-- 
+  
 **BERT (Fine-Tuned):** ✅ *Selected for deployment*  
 - Accuracy: 0.9619  
 - Balanced Accuracy: 0.8719  
 - F1-Score: 0.9793 
+
+**Observation:** Fine-tuned **BERT** outperforms both DistilBERT and traditional ML models, providing **high precision and recall**, making it the best candidate for deployment.  
+
+---
+
+## 🌐 Deployment
+
+- Deployed **BERT model** as **AI Customer Sentiment Intelligence Platform** on **Hugging Face Spaces**.  
+- Features:
+- Real-time review analysis  
+- Interactive **Streamlit interface**  
+- Immediate **positive/negative sentiment prediction**  
+- Live App: [AI Customer Sentiment Intelligence Platform](https://huggingface.co/spaces/PREETHI0103/Customer-Sentiment-Intelligence-Platform)  
+
+---
+
+## 🔑 Key Features
+
+- End-to-end AI system for **customer feedback sentiment analysis**  
+- **Baseline ML models** for comparison  
+- Fine-tuned **BERT & DistilBERT models** for high accuracy  
+- **Interactive Streamlit app** for real-time predictions  
+- Hosted and shared via **Hugging Face Hub**  
+- **Production-ready** workflow from preprocessing → model training → deployment 
+
 
