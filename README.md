@@ -3,7 +3,7 @@
 A production-grade AI platform built on customer feedback, leveraging fine-tuned BERT for sentiment intelligence. The system covers data preprocessing, EDA, advanced NLP pipelines, model training and optimization, Hugging Face model hosting, and deployment as a high-performance Streamlit web application for real-time decision support.
 
 
-**AI Customer Sentiment Intelligence Platform 📊** 
+**AI Customer Sentiment Intelligence Platform 📊** — Real-time analysis of Amazon Alexa reviews using **fine-tuned BERT model** 🚀
 
 [🔗 Try the live app on Hugging Face Spaces](https://huggingface.co/spaces/PREETHI0103/Customer-Sentiment-Intelligence-Platform)
 
